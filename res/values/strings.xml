@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yeezy Quote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hit_me_up_">Hit me up.</string>
+    <string name="textview">TextView</string>
+    <string name="_quot_ugh_quot_">&amp;quot;...Ugh...&amp;quot;</string>
+
+</resources>
